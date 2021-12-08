@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "228892210680",
+    "project_id": "momento-cross-platform-app",
+    "storage_bucket": "momento-cross-platform-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228892210680:android:bbc9e761ed12f9d145120d",
+        "android_client_info": {
+          "package_name": "com.example.momento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228892210680-sc2ukvtulr7bl0dj43bt4gngdm5vnmco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.momento",
+            "certificate_hash": "a5d5e57739c9ce4816c730a65dc3452adb9e45e0"
+          }
+        },
+        {
+          "client_id": "228892210680-p1n8sjlq8s12vh7gk19r6e2q5jkbm600.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTgYbYx1YcD2mXBHzMhn3gAB6aiD9VcA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228892210680-p1n8sjlq8s12vh7gk19r6e2q5jkbm600.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
